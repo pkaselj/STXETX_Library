@@ -1,3 +1,0 @@
-E:/STXETX_Protocol/CMakeFiles/stxetx_protocol.dir
-E:/STXETX_Protocol/CMakeFiles/edit_cache.dir
-E:/STXETX_Protocol/CMakeFiles/rebuild_cache.dir
